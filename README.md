@@ -35,6 +35,9 @@ Potential improvements include adding a like system for blogs, user profile mana
 
 OUTPUT:
 BLOG CREATION:
+
 ![Image](https://github.com/user-attachments/assets/c5903c01-88a9-4950-9175-589d14220cab)
 
 COMMENTING ON BLOG:
+
+![Image](https://github.com/user-attachments/assets/a87a3d14-66aa-4803-844f-53bb6b5b20d8)
