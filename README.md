@@ -32,3 +32,9 @@ The project is managed using Git and GitHub, ensuring version control and collab
 
 NEXT STEPS AND ENHANCEMENT:
 Potential improvements include adding a like system for blogs, user profile management, and enhanced access control using role-based authentication. Additionally, integrating a frontend application using React or Angular will create a complete blogging platform. This system provides a secure, scalable, and extensible foundation for building a fully functional blog application with interactive features and robust authentication.
+
+OUTPUT:
+BLOG CREATION:
+![Image](https://github.com/user-attachments/assets/c5903c01-88a9-4950-9175-589d14220cab)
+
+COMMENTING ON BLOG:
