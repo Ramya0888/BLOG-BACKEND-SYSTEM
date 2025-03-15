@@ -40,4 +40,4 @@ BLOG CREATION:
 
 COMMENTING ON BLOG:
 
-![Image](https://github.com/user-attachments/assets/a87a3d14-66aa-4803-844f-53bb6b5b20d8)
+![Image](https://github.com/user-attachments/assets/e7f6f1cd-9fee-4064-8f6b-88935760a153)
